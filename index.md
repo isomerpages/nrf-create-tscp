@@ -15,10 +15,4 @@ sections:
         - title: About TSCP hosted by ILATSG
           description: ""
           url: https://google.com
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
