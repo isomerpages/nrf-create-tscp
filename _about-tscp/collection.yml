@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  about-tscp:
     output: true
     order:
       - About TSCP.md
