@@ -17,6 +17,6 @@ The Trustworthy and Secure Cyber Plexus (TSCP) is a joint programme between the 
 The TSCP Programme is led by Prof David Nicol, the Franklin W. Woeltge Professor of Electrical and Computer Engineering and director of the Information Trust Institute. Prof Zbigniew Kalbarczyk, a research professor of electrical and computer engineering in the Coordinated Science Laboratory, will share the leadership role.
 
 **[Download the TSCP factsheet](/files/tscp-factsheet-(nrf-edited).pdf)**
-
+![](/images/Screenshot%202023-03-28%20193049.png)
 **Publications**  
 [http://publish.illinois.edu/cps-security/publications/](http://publish.illinois.edu/cps-security/publications/)
