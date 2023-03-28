@@ -3,7 +3,6 @@ title: About TSCP
 permalink: /about-tscp/
 description: ""
 ---
-
 About Trustworthy and Secure Cyber Plexus (TSCP)
 -----------
 
@@ -15,3 +14,5 @@ The Trustworthy and Secure Cyber Plexus (TSCP) is a joint programme between the 
 *   Methodologies and tools to continuously monitor, detect and react to problems in real-time.
 
 The TSCP Programme is led by Prof David Nicol, the Franklin W. Woeltge Professor of Electrical and Computer Engineering and director of the Information Trust Institute. Prof Zbigniew Kalbarczyk, a research professor of electrical and computer engineering in the Coordinated Science Laboratory, will share the leadership role.
+
+**[Download the TSCP factsheet](/files/tscp-factsheet-(nrf-edited).pdf)**
