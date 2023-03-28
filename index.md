@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Trustworthy and Secure Cyber Plexus (TSCP) hosted by ILATSG
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo.png
 permalink: /
 notification: "[prototype] CREATE - Campus for Research Excellence and
   Technological Enterprise"
@@ -16,3 +16,4 @@ sections:
           description: ""
           url: /about-trustworthy-and-secure-cyber-plexus-tscp/
 ---
+
