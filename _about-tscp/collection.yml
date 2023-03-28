@@ -2,4 +2,4 @@ collections:
   about-tscp:
     output: true
     order:
-      - About TSCP.md
+      - About Trustworthy and Secure Cyber Plexus (TSCP).md
