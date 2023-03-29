@@ -14,6 +14,5 @@ sections:
       key_highlights:
         - title: About TSCP hosted by ILATSG
           description: ""
-          url: /about-trustworthy-and-secure-cyber-plexus-tscp/
+          url: /about-create/research-centres/tscp-hosted-by-ilatsg/
 ---
-
