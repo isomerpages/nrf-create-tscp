@@ -3,11 +3,9 @@ title: TSCP hosted by ILATSG
 permalink: /about-create/research-centres/tscp-hosted-by-ilatsg/
 description: ""
 ---
-
 About Trustworthy and Secure Cyber Plexus (TSCP)
 -----------
-![](/images/adsc.png)
-![](/images/stud_logo_large.jpg)
+![](/images/Replacement%20ILATSG%20logo.png)
 The Trustworthy and Secure Cyber Plexus (TSCP) is a joint programme between the Advanced Digital Sciences Center (ADSC) and the Singapore University of Technology and Design (SUTD). The programme also will collaborate with the National University of Singapore (NUS), Nanyang Technological University, the Institute for Infocomm Research, and other research agencies at Singapore’s Agency for Science, Technology and Research (A\*STAR).The TSCP programme will focus on four main thrusts:
 
 *   System architecture and the organization of trustworthy and secure cybersecurity components and their interactions;
