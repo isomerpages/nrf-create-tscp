@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       title: TSCP hosted by ILATSG
-      subtitle: Trustworthy and Secure Cyber Plexus
+      subtitle: Hero subtitle
       background: /images/hero-banner.png
-      key_highlights:
-        - title: About TSCP hosted by ILATSG
-          description: ""
-          url: /about-create/research-centres/tscp-hosted-by-ilatsg/
 ---
