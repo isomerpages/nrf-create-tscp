@@ -4,8 +4,7 @@ title: Trustworthy and Secure Cyber Plexus (TSCP) hosted by ILATSG
 description: Brief site description here
 image: /images/logo.png
 permalink: /
-notification: "[prototype] CREATE - Campus for Research Excellence and
-  Technological Enterprise"
+notification: ""
 sections:
   - hero:
       title: TSCP hosted by ILATSG
