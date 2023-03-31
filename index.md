@@ -8,6 +8,12 @@ notification: ""
 sections:
   - hero:
       title: TSCP hosted by ILATSG
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/Replacement ILATSG logo.png
+      key_highlights:
+        - title: Click here for CREATE Home Page
+          description: ""
+          url: https://staging.d1q14glctguzyi.amplifyapp.com/
+        - title: About TSCP hosted by ILATSG
+          description: ""
+          url: /about-create/research-centres/tscp-hosted-by-ilatsg/
 ---
