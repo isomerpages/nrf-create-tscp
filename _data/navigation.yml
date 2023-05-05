@@ -1,15 +1,6 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.png
 links:
+  - title: TSCP hosted by ILATSG
+    url: /about-create/research-centres/tscp-hosted-by-ilatsg/
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
